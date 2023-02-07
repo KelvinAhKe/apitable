@@ -260,10 +260,10 @@ curl https://apitable.github.io/install.sh | bash
 - 创建新 [Issues](https://github.com/apitable/apitable/issues/new/choose) 来反馈 BUG 或者优秀想法
 - 关注我们的 [Twitter](https://twitter.com/apitable_com) 账号
 - 完善、增添项目的 [Documentation](./docs)
-- [当然还有无限欢迎的 [Contributing Code](./docs/contribute/developer-guide.md)](./docs/contribute/developer-guide.md)
+- [贡献代码](./docs/contribute/developer-guide.md)
 
 
-你可以阅读这个仓库的 [贡献指南](./CONTRIBUTING.md) 来学习如何贡献.
+更多详情，请查看 [贡献指南](./CONTRIBUTING.md) 。
 
 这是一份入门指南，让您快速了解如何为 APITable 的茁壮成长贡献力量。
 
