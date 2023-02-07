@@ -251,26 +251,26 @@ curl https://apitable.github.io/install.sh | bash
 
 ## 🧑‍💻 贡献
 
-欢迎并感谢您有兴趣为 APITable 作出贡献！
+欢迎并感谢您为 APITable 作出贡献！
 
-In addition to writing code, there are many ways for you to contribue.
+除了编写代码，您还有许多方法可以帮助 APITable 项目的茁壮成长。
 
-You can contribute as following:
-- Join and modify translations in our [Crowdin Translation Project](https://crowdin.com/project/apitablecode/invite?h=f48bc26f9eb188dcd92d5eb4a66f2c1f1555185)
-- Create [Issues](https://github.com/apitable/apitable/issues/new/choose)
-- Follow our [Twitter](https://twitter.com/apitable_com)
-- Create [Documentation](./docs)
-- [Contributing Code](./docs/contribute/developer-guide.md)
+你可以通过如下方式给项目提供帮助:
+- 加入 [Crowdin Translation Project](https://crowdin.com/project/apitablecode/invite?h=f48bc26f9eb188dcd92d5eb4a66f2c1f1555185) ，帮助我们进行翻译
+- 创建新 [Issues](https://github.com/apitable/apitable/issues/new/choose) 来反馈 BUG 或者优秀想法
+- 关注我们的 [Twitter](https://twitter.com/apitable_com) 账号
+- 完善、增添项目的 [Documentation](./docs)
+- [当然还有无限欢迎的 [Contributing Code](./docs/contribute/developer-guide.md)](./docs/contribute/developer-guide.md)
 
 
 你可以阅读这个仓库的 [贡献指南](./CONTRIBUTING.md) 来学习如何贡献.
 
-这是一个帮助您为 APITable 作出贡献的快速指南。
+这是一份入门指南，让您快速了解如何为 APITable 的茁壮成长贡献力量。
 
 
 ### 开发环境
 
-Learn how to set up your local environment, go to our [Developer Guide](./docs/contribute/developer-guide.md).
+在我们的 [开发者指南](./docs/contribute/developer-guide.md) 中学习如何设置您的本地开发环境。
 
 ### Git 工作流基础
 
@@ -343,7 +343,7 @@ APITable 可适用这些通用的约定：
 - **后端开发者**: 有 NestJS、TypeScript、Spring Boot、Java、SQL、Kubernetes、Terraform 的工作经验。 并喜欢写高质量的代码，带有清晰的文档和单元测试。
 - **前端开发者**: 有 React、NextJS、TypeScript、WebPack 的工作经验。 并喜欢写高质量的代码，带有清晰的文档和单元测试。
 
-无论时间和条件如何，如果你想要加入 APITable 团队，请不要犹豫，将您的简历发送到 talent@apitable
+无论时间和条件如何，如果你想要加入 APITable 团队，请不要犹豫，将您的简历发送到 <talent@apitable.com>。
 
 ## 📺 截图
 
