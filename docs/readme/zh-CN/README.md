@@ -42,6 +42,10 @@
     <a target="_blank" href="https://github.com/apitable/apitable/actions/workflows/build.yaml">
         <img src="https://github.com/apitable/apitable/actions/workflows/build.yaml/badge.svg" />
     </a>
+    <!-- Better Uptime-->
+    <a target="_blank" href="https://apitable.betteruptime.com/">
+        <img src="https://betteruptime.com/status-badges/v1/monitor/a1a9.svg" />
+    </a>
 </p>
 
 <p align="center">
@@ -237,15 +241,19 @@ APITable 将提供一个数据表查询语言(DQL)来查询您的数据库电子
 
 ## 安装
 
-请确保您已在本地安装 `docker` & `curl` 。
+Before you begin:
+* A host with [docker](https://docs.docker.com/engine/install/) and [docker-compose v2](https://docs.docker.com/engine/install/) installed.
+* 4 CPUs/8GB RAM or more are recommended.
+* A bash shell with basic utilities like curl installed.
+* Native arm64 (apple silicon) container images is not ready yet and may cause bad performance.
 
-如果您的计算机安装了 Docker ，打开您的终端并这样运行：
+To install apitable using docker compose, open your terminal and run this:
 
 ```
 curl https://apitable.github.io/install.sh | bash
 ```
 
-然后在您的浏览器中打开 [https://localhost:80](https://localhost:80) 访问它。 (默认用户名 `admin@apitable.com` 和密码 `Apitable2022`)
+Then open [http://localhost:80](http://localhost:80) in your browser to visit it. (默认用户名 `admin@apitable.com` 和密码 `Apitable2022`)
 
 如果你想要设置你的本地开发环境，请阅读我们的 [🧑‍💻 开发者指南 ](./docs/contribute/developer-guide.md)
 
@@ -369,13 +377,13 @@ APITable 可适用这些通用的约定：
     <img src="docs/static/screenshot-marketing.png" alt="可用屏幕截图图像" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-hr.png" alt="可用屏幕截图图像" />
+    <img src="docs/static/screenshot-hr.png" alt="APITable Screenshot Image" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-it.png" alt="可用屏幕截图图像" />
+    <img src="docs/static/screenshot-it.png" alt="APITable Screenshot Image" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-sales.png" alt="可用屏幕截图图像" />
+    <img src="docs/static/screenshot-sales.png" alt="APITable Screenshot Image" />
 </p>
 
 ## 🥰 许可协议
