@@ -42,6 +42,10 @@
     <a target="_blank" href="https://github.com/apitable/apitable/actions/workflows/build.yaml">
         <img src="https://github.com/apitable/apitable/actions/workflows/build.yaml/badge.svg" />
     </a>
+    <!-- Better Uptime-->
+    <a target="_blank" href="https://apitable.betteruptime.com/">
+        <img src="https://betteruptime.com/status-badges/v1/monitor/a1a9.svg" />
+    </a>
 </p>
 
 <p align="center">
@@ -237,15 +241,19 @@ APITable 將提供一個數據表查詢語言(DQL)來查詢您的數據庫電子
 
 ## 安裝
 
-請確保您已在本地安裝 `docker` & `curl` 。
+Before you begin:
+* A host with [docker](https://docs.docker.com/engine/install/) and [docker-compose v2](https://docs.docker.com/engine/install/) installed.
+* 4 CPUs/8GB RAM or more are recommended.
+* A bash shell with basic utilities like curl installed.
+* Native arm64 (apple silicon) container images is not ready yet and may cause bad performance.
 
-如果您的計算機安裝了 Docker ，打開您的終端並這樣運行：
+To install apitable using docker compose, open your terminal and run this:
 
 ```
 curl https://apitable.github.io/install.sh | bash
 ```
 
-然後在您的瀏覽器中打開 [https://localhost:80](https://localhost:80) 訪問它。 (默認用戶名 `admin@apitable.com` 和密碼 `Apitable2022`)
+Then open [http://localhost:80](http://localhost:80) in your browser to visit it. (默認用戶名 `admin@apitable.com` 和密碼 `Apitable2022`)
 
 如果你想要設置你的本地開發環境，請閱讀我們的 [🧑‍💻 開發者指南 ](./docs/contribute/developer-guide.md)
 
