@@ -42,6 +42,10 @@
     <a target="_blank" href="https://github.com/apitable/apitable/actions/workflows/build.yaml">
         <img src="https://github.com/apitable/apitable/actions/workflows/build.yaml/badge.svg" />
     </a>
+    <!-- Better Uptime-->
+    <a target="_blank" href="https://apitable.betteruptime.com/">
+        <img src="https://betteruptime.com/status-badges/v1/monitor/a1a9.svg" />
+    </a>
 </p>
 
 <p align="center">
@@ -237,15 +241,19 @@ APITableは、データベースのスプレッドシートの内容を照会す
 
 ## インストール
 
-ローカルに `docker` & `curl` がインストールされていることを確認してください。
+Before you begin:
+* A host with [docker](https://docs.docker.com/engine/install/) and [docker-compose v2](https://docs.docker.com/engine/install/) installed.
+* 4 CPUs/8GB RAM or more are recommended.
+* A bash shell with basic utilities like curl installed.
+* Native arm64 (apple silicon) container images is not ready yet and may cause bad performance.
 
-Docker Machineがインストールされている場合は、ターミナルを開いて以下を実行してください。
+To install apitable using docker compose, open your terminal and run this:
 
 ```
 curl https://apitable.github.io/install.sh | bash
 ```
 
-ブラウザで [https://localhost:80](https://localhost:80) を開きます。 (デフォルトのユーザー名 `admin@apitable.com` とパスワード `Apitable2022`)
+Then open [http://localhost:80](http://localhost:80) in your browser to visit it. (デフォルトのユーザー名 `admin@apitable.com` とパスワード `Apitable2022`)
 
 ローカルの開発環境を設定したい場合は、 [🧑<unk> 💻 開発者ガイド](./docs/contribute/developer-guide.md) をご覧ください。
 
@@ -369,13 +377,13 @@ Regardless of time and conditions, if you want to get involved to the team of AP
     <img src="docs/static/screenshot-marketing.png" alt="APITableスクリーンショット画像" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-hr.png" alt="APITableスクリーンショット画像" />
+    <img src="docs/static/screenshot-hr.png" alt="APITable Screenshot Image" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-it.png" alt="APITableスクリーンショット画像" />
+    <img src="docs/static/screenshot-it.png" alt="APITable Screenshot Image" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-sales.png" alt="APITableスクリーンショット画像" />
+    <img src="docs/static/screenshot-sales.png" alt="APITable Screenshot Image" />
 </p>
 
 ## 🥰 ライセンス
