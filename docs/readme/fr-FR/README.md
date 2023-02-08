@@ -42,6 +42,10 @@
     <a target="_blank" href="https://github.com/apitable/apitable/actions/workflows/build.yaml">
         <img src="https://github.com/apitable/apitable/actions/workflows/build.yaml/badge.svg" />
     </a>
+    <!-- Better Uptime-->
+    <a target="_blank" href="https://apitable.betteruptime.com/">
+        <img src="https://betteruptime.com/status-badges/v1/monitor/a1a9.svg" />
+    </a>
 </p>
 
 <p align="center">
@@ -237,15 +241,19 @@ Partagez votre table ou dossier de fiches techniques. Intégrez-les en copiant e
 
 ## Installation
 
-Assurez-vous que vous avez `docker` & `curl` installé localement.
+Before you begin:
+* A host with [docker](https://docs.docker.com/engine/install/) and [docker-compose v2](https://docs.docker.com/engine/install/) installed.
+* 4 CPUs/8GB RAM or more are recommended.
+* A bash shell with basic utilities like curl installed.
+* Native arm64 (apple silicon) container images is not ready yet and may cause bad performance.
 
-Si vous avez installé Docker Machine, ouvrez votre terminal et lancez ceci :
+To install apitable using docker compose, open your terminal and run this:
 
 ```
 curl https://apitable.github.io/install.sh | bash
 ```
 
-Puis ouvrez [https://localhost:80](https://localhost:80) dans votre navigateur pour le visiter. (nom d'utilisateur par défaut `admin@apitable.com` et mot de passe `Apitable2022`)
+Then open [http://localhost:80](http://localhost:80) in your browser to visit it. (nom d'utilisateur par défaut `admin@apitable.com` et mot de passe `Apitable2022`)
 
 Si vous voulez configurer votre environnement de développement local, lisez notre [🧑<unk> 💻 Developer Guide](./docs/contribute/developer-guide.md)
 
@@ -369,13 +377,13 @@ Indépendamment du temps et des conditions, si vous voulez vous impliquer dans l
     <img src="docs/static/screenshot-marketing.png" alt="Image de capture d'écran APITable" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-hr.png" alt="Image de capture d'écran APITable" />
+    <img src="docs/static/screenshot-hr.png" alt="APITable Screenshot Image" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-it.png" alt="Image de capture d'écran APITable" />
+    <img src="docs/static/screenshot-it.png" alt="APITable Screenshot Image" />
 </p>
 <p align="center">
-    <img src="docs/static/screenshot-sales.png" alt="Image de capture d'écran APITable" />
+    <img src="docs/static/screenshot-sales.png" alt="APITable Screenshot Image" />
 </p>
 
 ## 🥰 Licence
