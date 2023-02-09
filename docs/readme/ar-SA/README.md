@@ -66,16 +66,15 @@
 
 ## ✨ بداية سريعة
 
-> APITable حاليا هو `العمل قيد التقدم`.
-> 
-> سنقوم بنشر الإصدار الأول في أواخر يناير 2023.
-> 
-> انضم إلى [ديسكورد](https://discord.gg/TwNb9nfdBU) أو [تويتر](https://twitter.com/apitable_com) للإبقاء على اتصال.<!-- If you just want try out APITable\[^info], using our hosted version at [apitable.com\](https://apitable.com). -->إذا كنت ترغب فقط في تجربة APITable[^info]، انقر هنا مقابل [⚡Gitpod Online التجريبي](https://gitpod.io/#https://github.com/apitable/apitable).
+If you just want to try out APITable[^info], use our cloud-hosted version at [apitable.com](https://apitable.com).
+
+If you want to demo this APITable open-source project, click here for [⚡️Gitpod Online Demo](https://gitpod.io/#https://github.com/apitable/apitable).
 
 إذا كنت ترغب في تثبيت APITable في بيئة الحوسبة المحلية أو السحابية، انظر [💾 Ininstallation](#installation)
 
 إذا كنت ترغب في إعداد بيئة التنمية المحلية الخاصة بك، اقرأ دليل المطور [🧑<unk> :laptop_computer](./docs/contribute/developer-guide.md)
 
+انضم إلى [ديسكورد](https://discord.gg/TwNb9nfdBU) أو [تويتر](https://twitter.com/apitable_com) للإبقاء على اتصال.
 ## ميزات 🔥
 
 <table>
