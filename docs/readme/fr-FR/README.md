@@ -302,6 +302,7 @@ Utilisez ces conventions communes APITables :
 - Comment versionner et étiqueter ? [Versioning sémantique](https://semver.org/)
 - Qu'est-ce que la directive de codage Java ? [Règles de codage Java](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) | [Plugin Intellij IDEA](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines)
 - Qu'est-ce que les règles de codage TypeScript ? -> [Guide de style TypeScript](https://google.github.io/styleguide/tsguide.html) | [ESLint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+- What is the Architecture Overview? -> [Understand APITable - Architecture Overview](./docs/contribute/architecute-overview.md)
 
 ### Documentations
 
@@ -349,7 +350,7 @@ Nous recherchons toujours de bons talents pour APITables :
 
 - **Développeur Full-stack**: Vous avez de l'expérience avec React, NestJS, TypeScript, Spring Boot, Java, Terraform. Et vous aimez écrire du code de haute qualité avec une documentation claire et des tests unitaires.
 - **Développeur Back-end**: Vous avez de l'expérience avec NestJS, TypeScript, Spring Boot, Java, SQL, Kubernetes, Terraform. Et vous aimez écrire du code de haute qualité avec une documentation claire et des tests unitaires.
-- **Développeur Front-end**: Vous avez de l'expérience avec React, NextJS, TypeScript, WebPack. Et vous aimez écrire du code de haute qualité avec une documentation claire et des tests unitaires.
+- **Développeur Front-end**: Vous avez de l'expérience avec React, NextJS, TypeScript, WebPack. And you like to write high quality code with clear documentation and unit tests.
 
 Indépendamment du temps et des conditions, si vous voulez vous impliquer dans l'équipe d'APITable, n'hésitez pas et envoyez votre CV à [talent@apitable. om](mailto:talent@apitable.com).
 
