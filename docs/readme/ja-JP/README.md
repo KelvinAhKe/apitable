@@ -66,16 +66,15 @@
 
 ## ✨ クイックスタート
 
-> APITableは現在 `作業中`です。
-> 
-> 最初のリリースは2023年1月下旬に公開されます。
-> 
-> [Discord](https://discord.gg/TwNb9nfdBU) や [Twitter](https://twitter.com/apitable_com) に参加して連絡を取り合いましょう。<!-- If you just want try out APITable\[^info], using our hosted version at [apitable.com\](https://apitable.com). -->APITable[^info]を試してみたい場合は、 [⚡Gitpod Online Demo](https://gitpod.io/#https://github.com/apitable/apitable) をクリックしてください。
+If you just want to try out APITable[^info], use our cloud-hosted version at [apitable.com](https://apitable.com).
+
+If you want to demo this APITable open-source project, click here for [⚡️Gitpod Online Demo](https://gitpod.io/#https://github.com/apitable/apitable).
 
 ローカルまたはクラウドコンピューティング環境にAPITableをインストールしたい場合は、 [💾 インストール](#installation) を参照してください。
 
 ローカルの開発環境を設定したい場合は、 [🧑<unk> 💻 開発者ガイド](./docs/contribute/developer-guide.md) をご覧ください。
 
+[Discord](https://discord.gg/TwNb9nfdBU) や [Twitter](https://twitter.com/apitable_com) に参加して連絡を取り合いましょう。
 ## 🔥 機能
 
 <table>
