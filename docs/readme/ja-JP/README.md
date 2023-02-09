@@ -302,6 +302,7 @@ Learn how to set up your local environment, go to our [Developer Guide](./docs/c
 - バージョン管理とタグ付け方法は? [セマンティックバージョン](https://semver.org/)
 - Javaコーディングガイドラインとは何ですか? [Java Coding Guideline](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) | [Intellij IDEA プラグイン](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines)
 - TypeScript コーディングガイドラインとは何ですか? -> [TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) | [ESLint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+- What is the Architecture Overview? -> [Understand APITable - Architecture Overview](./docs/contribute/architecute-overview.md)
 
 ### 文書
 
@@ -349,7 +350,7 @@ Learn how to set up your local environment, go to our [Developer Guide](./docs/c
 
 - **Full-stack 開発者**: React, NestJS, TypeScript, Spring Boot, Java, Terraformの経験があります。 そして、明確なドキュメントと単体テストで高品質のコードを書くのが好きです。
 - **バックエンド開発者**: NestJS, TypeScript, Spring Boot, Java, SQL, Kubernetes, Terraformの経験があります。 そして、明確なドキュメントと単体テストで高品質のコードを書くのが好きです。
-- **フロントエンド開発者**: React, NextJS, TypeScript, WebPackの経験があります。 そして、明確なドキュメントと単体テストで高品質のコードを書くのが好きです。
+- **フロントエンド開発者**: React, NextJS, TypeScript, WebPackの経験があります。 And you like to write high quality code with clear documentation and unit tests.
 
 Regardless of time and conditions, if you want to get involved to the team of APITable, do not hesitate and send your CV to <talent@apitable.com>.
 
