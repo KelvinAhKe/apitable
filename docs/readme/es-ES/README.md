@@ -302,6 +302,7 @@ Utilizar estas convenciones comunes:
 - ¿Cómo versionar y etiquetar? [Versionado semántico](https://semver.org/) [Versionado semántico](https://semver.org/)
 - ¿Qué es la guía de código de Java? [Java Coding Guideline](https://google.github.io/styleguide/javaguide.html) | [Intellij IDEA Plugin](https://plugins.jetbrains.com/plugin/8527)
 - ¿Qué es la guía de código de TypeScript? ¿Qué es la guía de código de TypeScript? -> [Guía de estilo de TypeScript](https://google.github.io/styleguide/tsguide.html) | [ESLint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+- What is the Architecture Overview? -> [Understand APITable - Architecture Overview](./docs/contribute/architecute-overview.md)
 
 ### Documentaciones
 
@@ -349,7 +350,7 @@ Siempre buscamos buenos talentos para APITable:
 
 - **Desarrollador Full-stack**: Tienes experiencia con React, NestJS, TypeScript, Spring Boot, Java, Terraform. Y le gusta escribir código de alta calidad con documentación clara y pruebas unitarias.
 - **Desarrollador back-end**: Tiene experiencia con NestJS, TypeScript, Spring Boot, Java, SQL, Kubernetes, Terraform. Y le gusta escribir código de alta calidad con documentación clara y pruebas unitarias.
-- **Desarrollador front-end**: Tiene experiencia con React, NextJS, TypeScript, WebPack. Y le gusta escribir código de alta calidad con documentación clara y pruebas unitarias.
+- **Desarrollador front-end**: Tiene experiencia con React, NextJS, TypeScript, WebPack. And you like to write high quality code with clear documentation and unit tests.
 
 Independientemente del tiempo y condiciones, si desea involucrarse en el equipo de APITable, no dudes en enviar tu CV a [talent@apitable. om](mailto:talent@apitable.com).
 
