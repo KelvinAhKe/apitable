@@ -302,6 +302,7 @@ Learn how to set up your local environment, go to our [Developer Guide](./docs/c
 - كيفية الإصدار و الوسم؟ [الإصدار السامي](https://semver.org/)
 - ما هو دليل برمجة جافا؟ [Java Coding Guidelin](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines)
 - ما هو دليل برمجة TypeScript Ccolining؟ -> [دليل نمط النص النصي](https://google.github.io/styleguide/tsguide.html)
+- What is the Architecture Overview? -> [Understand APITable - Architecture Overview](./docs/contribute/architecute-overview.md)
 
 ### الوثائق
 
@@ -349,7 +350,7 @@ Learn how to set up your local environment, go to our [Developer Guide](./docs/c
 
 - **المطور الخلفي**: لديك تجربة مع NestJS, TypeScript, Spring Boot, Java, SQL, Kubernetes, Terraform. وتحب كتابة كود عالي الجودة مع وثائق واضحة واختبارات وحدة
 - **مطور المكدس الكامل**: لديك تجربة مع React. NestJS, TypeScript, Spring Boot, Java, Terraform. وتحب كتابة كود عالي الجودة مع وثائق واضحة واختبارات وحدة
-- **مطور النهاية الأمامية**: لديك تجربة مع React. NextJS, TypeScript, WebPack. وتحب كتابة كود عالي الجودة مع وثائق واضحة واختبارات وحدة
+- **مطور النهاية الأمامية**: لديك تجربة مع React. NextJS, TypeScript, WebPack. And you like to write high quality code with clear documentation and unit tests.
 
 بغض النظر عن الوقت والشروط، إذا كنت ترغب في المشاركة في فريق APITable، لا تتردد في إرسال السيرة الذاتية الخاصة بك إلى
 
