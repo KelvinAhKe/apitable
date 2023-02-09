@@ -302,6 +302,7 @@ APITable use these common conventions:
 - 如何進行版本控制和標記？ [語義版](https://semver.org/)
 - Java 編碼準則是什麼？ [Java 編碼準則](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) | [Intellij IDEA 插件](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines)
 - 什麼是 TypeScript 編碼準則？ -> [TypeScript 樣式指南](https://google.github.io/styleguide/tsguide.html) | [ESLint](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
+- What is the Architecture Overview? -> [Understand APITable - Architecture Overview](./docs/contribute/architecute-overview.md)
 
 ### 文件
 
