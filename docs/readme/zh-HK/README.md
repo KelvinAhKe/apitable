@@ -81,7 +81,7 @@
   
   <tr>
     <th>
-      <a href="#">實時協同</a>
+      <a href="#">多用户實時協作</a>
     </th>
     <th>
       <a href="#">自動生成表單</a>
@@ -129,7 +129,7 @@
       <a href="#">強大的行/列權限</a>
     </th>
     <th>
-      <a href="#">嵌入</a>
+      <a href="#">自由嵌入</a>
     </th>
   </tr>
 
@@ -148,7 +148,7 @@
 
 </table>
 
-APITable 提供了一系列令人驚奇的功能，從個人到企業。
+無論個人還是企業，APITable 都提供了一系列令人驚喜的功能。
 
 - 先進技術與開源
   - `實時合作` 允許多個用戶實時或與 `操作轉換(OT)` 算法同時進行編輯。
@@ -218,7 +218,7 @@ APITable 提供了一系列令人驚奇的功能，從個人到企業。
   - ...及更多, APITable 連接到一切。
 - 此外，它是開源和可擴展的
 
-## 💞 API-oriented
+## 💞 API 導向
 
 #### API 面板
 
@@ -228,49 +228,49 @@ APITable 提供了一系列令人驚奇的功能，從個人到企業。
 
 APITable 將提供一個數據表查詢語言(DQL)來查詢您的數據庫電子表格內容。
 
-## 💝 Embed-friendly
+## 💝 自由嵌入
 
 #### 分享和嵌入
 
 分享您的數據表或文件夾。 通過複製和粘貼HTML腳本嵌入它們。
 
-#### 企業準備嵌入
+#### 商業化嵌入
 
-[APITable.com](https://apitable.com) 為證券提供更多準備好企業嵌入功能。
+[APITable.com](https://apitable.com) 為商業化用户提供更多嵌入功能。
 
 ## 安裝
 
-Before you begin:
-* A host with [docker](https://docs.docker.com/engine/install/) and [docker-compose v2](https://docs.docker.com/engine/install/) installed.
-* 4 CPUs/8GB RAM or more are recommended.
-* A bash shell with basic utilities like curl installed.
-* Native arm64 (apple silicon) container images is not ready yet and may cause bad performance.
+開始之前，您需要準備：
+* 已安裝 [docker](https://docs.docker.com/engine/install/) 和 [docker-compose v2](https://docs.docker.com/engine/install/) 的環境
+* 推薦硬體配備 4 CPUs/8GB RAM 或更多
+* 已安裝配備一般功能（例如能執行 curl）的命令行界面程式
+* 本項目尚未對原生 arm64 (apple silicon) 進行最佳化，可能存在效能問題
 
-To install apitable using docker compose, open your terminal and run this:
+如要使用 docker compose 安裝 APITable，打開命令行界面程式，並運行：
 
 ```
 curl https://apitable.github.io/install.sh | bash
 ```
 
-Then open [http://localhost:80](http://localhost:80) in your browser to visit it. (默認用戶名 `admin@apitable.com` 和密碼 `Apitable2022`)
+然後打開瀏覽器並訪問 [http://localhost:80](http://localhost:80) 即可 (默認用戶名 `admin@apitable.com` 和密碼 `Apitable2022`)
 
-如果你想要設置你的本地開發環境，請閱讀我們的 [🧑‍💻 開發者指南 ](./docs/contribute/developer-guide.md)
+如果您想要配置本地開發環境，請參考我們的 [🧑‍💻開發者指南](./docs/contribute/developer-guide.md)
 
-## 🧑‍💻 Contributing
+## 🧑‍💻 作出貢獻
 
 歡迎並感謝您有興趣為APITable作出貢獻！
 
-In addition to writing code, there are many ways for you to contribue.
+除了編寫程式外，還有許多途徑為我們提供幫助
 
-You can contribute as following:
-- Join and modify translations in our [Crowdin Translation Project](https://crowdin.com/project/apitablecode/invite?h=f48bc26f9eb188dcd92d5eb4a66f2c1f1555185)
-- Create [Issues](https://github.com/apitable/apitable/issues/new/choose)
-- Follow our [Twitter](https://twitter.com/apitable_com)
-- Create [Documentation](./docs)
-- [Contributing Code](./docs/contribute/developer-guide.md)
+您可以：
+- 加入 [Crowdin Translation Project](https://crowdin.com/project/apitablecode/invite?h=f48bc26f9eb188dcd92d5eb4a66f2c1f1555185) 並協助翻譯
+- 創建 [Issues](https://github.com/apitable/apitable/issues/new/choose)
+- 關注我們的 [Twitter](https://twitter.com/apitable_com)
+- 創建 [文檔](./docs)
+- [編寫程式](./docs/contribute/developer-guide.md)
 
 
-你可以閱讀這個倉庫的 [貢獻指南](./CONTRIBUTING.md) 來學習如何貢獻.
+你可以閱讀這個存儲庫的 [貢獻指南](./CONTRIBUTING.md) 來學習如何貢獻。
 
 這是一個快速指南來幫助您為API做出貢獻。
 
@@ -311,27 +311,27 @@ APITable use these common conventions:
   - 小部件 SDK (即將到來...)
   - Scripting (Coming soon...)
 
-## 🛣 Roadmap
+## 🛣 路線圖
 
 ### 未來的功能
 
 - 重代碼接口構建器
 - 可嵌入第三方文件部分
-- SQL類域特定語言
-- IdP
-- Advanced automation robot
+- 類SQL領域特性編程
+- 身份供應商（IdP）
+- 進階自動化機器人
 - Web 3 功能
 - ...
 
 ### 託管版本和企業版本提供高級功能
 
-- IdP；
+- 作為身份供應商（IdP）
 - SAML
-- Single-Sign-On
+- 單點登錄
 - 審計
 - 數據庫備份
-- Integrate with ChatGPT, Zapier, Slack, Google Workspace……
-- 水標
+- 與 ChatGPT, Zapier, Slack, Google Workspace…… 整合
+- 水印
 
 欲瞭解更多信息，請通過 <support@apitable.com> 聯繫我們。
 
@@ -347,11 +347,11 @@ APITable use these common conventions:
 
 我們總是為APITable尋找優秀人才：
 
-- **前端開發者**: 你有React, NextJS, TypeScript, WebPack的體驗。 你想要寫高質量的代碼，帶有清晰的文檔和單元測試。
-- **後端開發者**: 你有經驗使用 NestJS, TypeScript, Spring Boot, Java, SQL, Kubernetes, Terraform. 你想要寫高質量的代碼，帶有清晰的文檔和單元測試。 And you like to write high quality code with clear documentation and unit tests.
-- **Front-end developer**: You have experience with React, NextJS, TypeScript, WebPack. And you like to write high quality code with clear documentation and unit tests.
+- **全棧開發者**: 擁有 React, NextJS, TypeScript, WebPack 的經驗。 熱衷於編寫高質量的程式碼，並喜歡清晰的文檔和單元測試。
+- **後端開發者**: 擁有 NestJS, TypeScript, Spring Boot, Java, SQL, Kubernetes, Terraform 的經驗。 熱衷於編寫高質量的程式碼，並喜歡清晰的文檔和單元測試。
+- **前端開發者**: 擁有 React, NextJS, TypeScript, WebPack 的經驗。 熱衷於編寫高質量的程式碼，並喜歡清晰的文檔和單元測試。
 
-無論時間和條件如何，如果你想要加入APITable團隊， 請毫不猶豫地將您的 CV 發送到 [talent@apitable。 om](mailto:talent@apitable.com)。
+如果您想加入 APITable 的團隊，不論任何條件，請隨時傳送您的個人 CV 到 <talent@apitable.com>。
 
 ## 📺 截圖
 
