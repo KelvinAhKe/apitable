@@ -64,17 +64,17 @@
   <a href="docs/readme/ja-JP/README.md">日本語</a>
 </p>
 
-## ✨ 快速啟動
+## ✨ 快速開始
 
-If you just want to try out APITable[^info], use our cloud-hosted version at [apitable.com](https://apitable.com).
+如果您想馬上嘗試 APITable[^info]，歡迎前往 [apitable.com](https://apitable.com) 使用我們的線上版本。
 
-If you want to demo this APITable open-source project, click here for [⚡️Gitpod Online Demo](https://gitpod.io/#https://github.com/apitable/apitable).
+如果您想演示 APITable 開源項目，可使用 [⚡️Gitpod Online Demo](https://gitpod.io/#https://github.com/apitable/apitable)。
 
 如果您想要在本地或雲端計算環境中安裝 APITable ，請參閱 [💾 安裝](#installation)
 
-如果你想要設置你的本地開發環境，請閱讀我們的 [🧑stiptop_compute: 開發者指南](./docs/contribute/developer-guide.md)
+如果您想要配置本地開發環境，請參考我們的 [🧑‍💻開發者指南](./docs/contribute/developer-guide.md)
 
-加入 [Discord](https://discord.gg/TwNb9nfdBU) 或 [Twitter](https://twitter.com/apitable_com) 保持聯繫。
+加入 [Discord](https://discord.gg/TwNb9nfdBU) 或 [Twitter](https://twitter.com/apitable_com) 以獲取我們的最新消息。
 ## 🔥 功能特性
 
 <table>
@@ -84,7 +84,7 @@ If you want to demo this APITable open-source project, click here for [⚡️Git
       <a href="#">實時協同</a>
     </th>
     <th>
-      <a href="#">自動表格生成</a>
+      <a href="#">自動生成表單</a>
     </th>
 
   </tr>
@@ -104,7 +104,7 @@ If you want to demo this APITable open-source project, click here for [⚡️Git
 
   <tr>
     <th>
-      <a href="#">API-第一面板</a>
+      <a href="#">一鍵生成API</a>
     </th>
     <th>
       <a href="#">無限跨表關聯</a>
